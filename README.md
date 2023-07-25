@@ -1,11 +1,14 @@
 Game Server for Windows(1601)
 ===============
-Current latest version: [230301550](https://github.com/amusegame/v1601/releases/download/230301550/v1601-230301550.github.7z)
+Current latest version: [230717621](https://github.com/amusegame/v1601/releases/download/230717621/v1601-230717621.github.7z)
 
-Release Date: 2023-02-24
+Release Date: 2023-07-17
 
 Release Notes
 -----------------------------------
+230717621
+	1. Fixed some problem; 
+
 230301550:
 	1. Fixed rune exp add invalid;
 
